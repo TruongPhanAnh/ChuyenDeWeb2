@@ -40,7 +40,6 @@ file_put_contents("css/6.css", $result);
 
     <!-- SCRIPTS -->
 
-
 </body>
 
 </html>
